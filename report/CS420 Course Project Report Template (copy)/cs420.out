@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Conventional Traffic Light Control}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Reinforcement Learning for Traffic Light Control}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Problem Definition}{}% 5
+\BOOKMARK [1][-]{section.4}{Agent Design}{}% 6
+\BOOKMARK [1][-]{section.5}{Network Structure}{}% 7
+\BOOKMARK [1][-]{section.6}{Memory Palace and Model Updating}{}% 8
+\BOOKMARK [1][-]{section.7}{Experiments}{}% 9
+\BOOKMARK [1][-]{section.8}{Extensions to DQN}{}% 10
+\BOOKMARK [2][-]{subsection.8.1}{Double Q-learning}{section.8}% 11
+\BOOKMARK [2][-]{subsection.8.2}{Prioritized replay}{section.8}% 12
+\BOOKMARK [2][-]{subsection.8.3}{Dueling networks}{section.8}% 13
+\BOOKMARK [2][-]{subsection.8.4}{Multi-step learning}{section.8}% 14
+\BOOKMARK [2][-]{subsection.8.5}{Distributional RL}{section.8}% 15
+\BOOKMARK [2][-]{subsection.8.6}{Noisy Nets}{section.8}% 16
+\BOOKMARK [1][-]{section.9}{Experimental Methods}{}% 17
+\BOOKMARK [2][-]{subsection.9.1}{Evaluation Methodology}{section.9}% 18
+\BOOKMARK [2][-]{subsection.9.2}{Hyper Parameter Tuning}{section.9}% 19
+\BOOKMARK [1][-]{section.10}{Conclusion}{}% 20
+\BOOKMARK [1][-]{section.11}{References}{}% 21

@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Non-Sequential Models}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{K-Nearest Neighbor}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Multilayer Perceptron Classifier}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Logistics Regression}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Decision Tree}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Gradient Boosting}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Random Forests}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Summary}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Sequential Model}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Overview}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Convolutional Layer}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Pooling Layer}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Normalization Layer}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.5}{Fully-connected layer}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.6}{Dropout Layer}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.7}{Sparse Connectivity}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.8}{Shared Weights}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.9}{Character-Level CNNs}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.10}{Model Design}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.11}{Summary}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Reference}{}% 22
